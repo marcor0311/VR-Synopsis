@@ -66,3 +66,9 @@ Explore a video introduction in my youtube tutorial:
 ## Cinemachine
 
 In process
+
+---
+
+## Resources (Github and YouTube
+
+In process
