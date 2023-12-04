@@ -54,7 +54,7 @@ Possible approaches that could be helpful are located in Assets/Agora-Unity-RTC-
 The **render texture approach** in Unity involves capturing the output of a rendering process and using it as a texture.
 
 ### Usage
-The render texture approach is used in this project for real-time rendering of the virtual cammera.
+The render texture approach is used in this project for real-time rendering of the virtual camera.
 
 ### Tutorial
 Explore a video introduction in my youtube tutorial:
