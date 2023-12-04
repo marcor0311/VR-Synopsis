@@ -85,7 +85,7 @@ Explore a video introduction in my youtube tutorial (Im still recording this one
 - [**Repository**](https://github.com/marcor0311/unity-photon-pun-2)
 - **Tutorial:** [Development Environment](https://www.youtube.com/watch?v=p0cZINbep_A)
 
-# Agora SDK 4: Streamlined Real-Time Communication
+# Agora SDK 4
 
 - [**2D Spaces Repository**](https://github.com/marcor0311/unity-agora-sdk-4-with-ui-for-2d-spaces)
 - [**3D Spaces Repository**](https://github.com/marcor0311/unity-agora-sdk-4-for-3d-spaces)
