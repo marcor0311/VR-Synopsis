@@ -65,10 +65,37 @@ Explore a video introduction in my youtube tutorial:
 
 ## Cinemachine
 
-In process
+### Overview
+Cinemachine is a Unity asset designed to simplify the process of creating and managing complex camera systems for virtual experiences. You can download directly from Unity in the Package Manager in the section Unity Registry and search for Cinemachine.
+
+### Usage
+Used in this project to manage the multiple cameras of the users (also called players in the tutorial of Photon).
+
+### Tutorial
+Explore a video introduction in my youtube tutorial (Im still recording this one but just incase here is the tutorial i followed initially) :
+
+- [Cinemachine Tutorial](https://www.youtube.com/watch?v=MvRtr8nUm_U)
 
 ---
 
-## Resources (Github and YouTube
+## Resources (Github and YouTube)
 
-In process
+# Unity Photon Pun 2
+
+- [**Repository**](https://github.com/marcor0311/unity-photon-pun-2)
+- **Tutorial:** [Development Environment](https://www.youtube.com/watch?v=p0cZINbep_A)
+
+# Agora SDK 4: Streamlined Real-Time Communication
+
+- [**2D Spaces Repository**](https://github.com/marcor0311/unity-agora-sdk-4-with-ui-for-2d-spaces)
+- [**3D Spaces Repository**](https://github.com/marcor0311/unity-agora-sdk-4-for-3d-spaces)
+- **Tutorial:** [Development Environment](https://www.youtube.com/watch?v=oMhcinIOpHk)
+
+# Render Texture Approach
+
+- **Tutorial:** [Virtual Camera Render Texture](https://youtu.be/HTvgcDDtNkM)
+
+# Cinemachine
+
+- **Tutorial:** [Cinemachine Tutorial](https://www.youtube.com/watch?v=MvRtr8nUm_U)
+
