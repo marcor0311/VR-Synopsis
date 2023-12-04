@@ -44,7 +44,7 @@ Explore a video introduction in my youtube tutorial:
 ### Recommendations
 Start with [Agora for 2D Spaces](https://github.com/marcor0311/unity-agora-sdk-4-with-ui-for-2d-spaces) before progressing to [Agora for 3D Spaces](https://github.com/marcor0311/unity-agora-sdk-4-for-3d-spaces) for a comprehensive understanding.
 
-Possible approaches that could be helpful are located in Assets/Agora-Unity-RTC-Plugin/API-Example/Examples/Advanced.
+Possible approaches that could be helpful are located in Assets/Agora-Unity-RTC-Plugin/API-Example/Examples/Advanced. One that has a lot of potential to solve the problem is ***Screen Share***.
 
 ---
 
